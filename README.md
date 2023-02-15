@@ -1,1 +1,4 @@
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
+Hola, prueba de clonar y actualizar en github. FUNCIONA POR FAVOR
+HOLA
+CIAO
+HELLO
